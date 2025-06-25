@@ -8,19 +8,7 @@ A simple and clean starter template using **Tailwind CSS** with the official CLI
 
 ---
 
-## 📁 Folder Structure
-
 ```
-
-.
-├── src/
-│   └── input.css         # Tailwind CSS directives
-├── dist/
-│   └── output.css        # Compiled CSS file (auto-generated)
-├── index.html            # Basic HTML to test Tailwind
-├── tailwind.config.js    # Tailwind config file
-├── package.json
-└── README.md
 
 ````
 
@@ -125,5 +113,3 @@ Open `index.html` in your browser. If you see styled text, Tailwind is working! 
 You're ready to start building beautiful UIs using Tailwind CSS. Happy coding! 💻
 
 > Made with ❤️ by \[Avi-codesmith]
-
-```
