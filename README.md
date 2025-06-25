@@ -1,6 +1,3 @@
----
-
-````markdown
 # ⚡ Tailwind CSS Starter (CLI Setup)
 
 A simple and clean starter template using **Tailwind CSS** with the official CLI. Ideal for small projects, prototypes, or learning Tailwind fast.
@@ -108,4 +105,3 @@ Open `index.html` in your browser. If you see styled text, Tailwind is working! 
 You're ready to start building beautiful UIs using Tailwind CSS. Happy coding! 💻
 
 > Made with ❤️ by \[Avi-codesmith]
----
