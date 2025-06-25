@@ -104,4 +104,4 @@ Open `index.html` in your browser. If you see styled text, Tailwind is working! 
 
 You're ready to start building beautiful UIs using Tailwind CSS. Happy coding! 💻
 
-# - Made by [@avi-codesmith](https://github.com/avi-codesmith)
+### - Made by [@avi-codesmith](https://github.com/avi-codesmith)
